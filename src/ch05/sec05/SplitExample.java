@@ -10,5 +10,5 @@ public class SplitExample {
 			System.out.println(tokens[i]);
 		}
 	}
-
+	
 }
